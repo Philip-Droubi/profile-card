@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap);
 * {
   padding: 0;
   margin: 0;
@@ -18,7 +19,7 @@ body {
   justify-content: center;
   height: 100vh;
   flex-direction: column;
-  font-family: "Kumbh Sans", sans-serif;
+  font-family: 'Kumbh Sans', sans-serif;
   overflow: hidden;
   background: url(../Imgs/bg-pattern-top.svg) calc(47vw - 976px)
       calc(70vh - 976px),
